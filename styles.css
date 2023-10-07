@@ -5,6 +5,7 @@
 }
 
 .button_link {
+    font-family: Arial, sans-serif; /* Alterando a fonte para Arial. Modifique conforme necessário. */
     background-color: #181818;
     color: #FFFFFF;
     border: 1px solid #2c2c2c;
@@ -18,4 +19,8 @@
     transition-property: color, background-color;
     text-decoration: none;
     padding: 10px 20px;
+}
+
+.button_link:hover {
+    background-color: #66042e; /* Cor de fundo ao passar o mouse */
 }
