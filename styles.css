@@ -19,6 +19,7 @@
     transition-property: color, background-color;
     text-decoration: none;
     padding: 10px 20px;
+    border-radius: 5px;  /* Borda arredondada adicionada aqui */
 }
 
 .button_link:hover {
